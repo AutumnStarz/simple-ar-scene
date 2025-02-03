@@ -1,8 +1,10 @@
 {
 	"folders": [
 		{
-			"name": "simple-ar-scene",
 			"path": "."
+		},
+		{
+			"path": "../../Downloads/maxwell_the_cat_with_bones_animation"
 		}
 	],
 	"settings": {}
